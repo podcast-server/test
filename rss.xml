@@ -5,13 +5,13 @@
     <description>Тест</description>
     <link></link>
     <language>uk</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:16:59 GMT</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/podcast-server/test/main/images/cover.png"/>
     <itunes:author>Тест</itunes:author>
     <itunes:summary>Тест</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:email></itunes:email>
-    <itunes:keywords>Тест</itunes:keywords>
+    <itunes:keywords>1</itunes:keywords>
   </channel>
 </rss>
