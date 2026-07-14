@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Що там</title>
+    <description>Тест</description>
+    <link></link>
+    <language>uk</language>
+    <lastBuildDate>Tue, 14 Jul 2026 23:16:06 GMT</lastBuildDate>
+    <itunes:image href="https://raw.githubusercontent.com/podcast-server/test/main/images/cover.png"/>
+    <itunes:author>Тест</itunes:author>
+    <itunes:summary>Тест</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:email></itunes:email>
+    <itunes:keywords>Тест</itunes:keywords>
+  </channel>
+</rss>
